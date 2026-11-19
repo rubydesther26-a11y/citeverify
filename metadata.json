@@ -1,0 +1,6 @@
+{
+  "name": "CiteVerify",
+  "description": "Academic manuscript and citation verification workbench powered by Crossref, OpenAlex, and arXiv.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
